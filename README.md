@@ -11,24 +11,35 @@
 3. 提供菜品成果展示平台，既增添了发布者的成就感，又有利于菜品的增添与创新。
 
 ## 作品截图
-![](./screenshots/3.jpg)
-![](./screenshots/5.jpg)
+<table>
+<tr>
+<td><img src="./screenshots/3.jpg"></td>
+<td><img src="./screenshots/5.jpg"></td>
+</tr>
+</table>
 
 <details>
 <summary>
 查看其他截图
 </summary>
 
-![](./screenshots/1.jpg)
-![](./screenshots/2.jpg)
-![](./screenshots/4.jpg)
-![](./screenshots/6.jpg)
-![](./screenshots/7.jpg)
-![](./screenshots/8.jpg)
-![](./screenshots/9.jpg)
-![](./screenshots/10.jpg)
-![](./screenshots/11.jpg)
-
+<table>
+<tr>
+<td><img src="./screenshots/1.jpg"></td>
+<td><img src="./screenshots/2.jpg"></td>
+<td><img src="./screenshots/4.jpg"></td>
+</tr>
+<tr>
+<td><img src="./screenshots/6.jpg"></td>
+<td><img src="./screenshots/7.jpg"></td>
+<td><img src="./screenshots/8.jpg"></td>
+</tr>
+<tr>
+<td><img src="./screenshots/9.jpg"></td>
+<td><img src="./screenshots/10.jpg"></td>
+<td><img src="./screenshots/11.jpg"></td>
+</tr>
+</table>
 </details>
 
 ## 致谢
